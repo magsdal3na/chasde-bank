@@ -1,2 +1,1 @@
-# chasde-bank
-Fake bank to use for scambaiting.
+Fake bank to use for scambaiting *in progress*.
